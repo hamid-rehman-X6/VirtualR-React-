@@ -9,7 +9,7 @@ const HeroSection = () => {
         VirtaulR build tools
         <span className="bg-gradient-to-r from-orange-500 to-red-900 text-transparent bg-clip-text">
           {" "}
-          for developers
+          for developer's
         </span>
       </h1>
       <p className="mt-10 max-w-4xl text-neutral-500 text-center text-lg">
