@@ -5,7 +5,7 @@ const Testimonials = () => {
   return (
     <div className="mt-20">
       <h1 className="text-3xl sm:text-5xl lg:text-6xl text-center tracking-wide my-10 lg:my-20">
-        What people are saying
+        What people are saying about us
       </h1>
 
       <div className="flex flex-wrap justify-center mx-4">
